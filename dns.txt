@@ -1,0 +1,7 @@
+[ADFS Adblock List]
+! Title: dns.txt
+! Last Modified: 2024-05-26 08:40:52
+! Homepage: https://github.com/zhuo2002/AdGuard-Home-DNS
+! 👇This Part Merge from: zhuo2002
+||elm.app.94wan.fun^
+||94wan.fun^
